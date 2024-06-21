@@ -182,6 +182,13 @@ main > section > div > p {
     background-color: #DC4C64;
 }
 
+#yes-btn:hover {
+    background-color: #14cd5e;
+}
+#no-btn:hover {
+    background-color: #d12a46;
+}
+
 .stickers {
     position: absolute;
     left: 15vw;
