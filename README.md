@@ -14,7 +14,7 @@ the project name "bahaar chalogi?" means "will you go out with me?".
 
 #### **Installation**
 
-1. Clone the repository: `git clone https://github.com/your-username/date-qualifier-web-page.git`
+1. Clone the repository: `git clone https://github.com/PatakiSubodh/baahar-chalogi.git`
 2. Navigate to the project directory: `cd date-qualifier-web-page`
 3. Open `index.html` in your web browser to view the page.
 
