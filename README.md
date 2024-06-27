@@ -1,8 +1,8 @@
-# **Date Qualifier Web Page**
+# **Date pe chalogi kya?**
 
 This project is a fun, interactive web page designed to ask a single question: _"Will you go on a date with me?"_ The page includes two buttons: **"Yes!!!"** and **"No!"**. However, when **"No!"** button is pressed then **"Yes!!!"** button will keep on growing, meaning the user has to say **"Yes!!!"**. When the **"Yes!!!"** button is clicked, a celebratory "Hooray!" GIF is displayed.
 
-the project name "bahaar chalogi?" means "will you go out with me?".
+the project name "date pe chalogi kya?" means "will you go on a date with me?".
 
 ### **Features**
 
@@ -14,8 +14,8 @@ the project name "bahaar chalogi?" means "will you go out with me?".
 
 #### **Installation**
 
-1. Clone the repository: `git clone https://github.com/PatakiSubodh/bahaar-chalogi.git`
-2. Navigate to the project directory: `cd bahaar-chalogi`
+1. Clone the repository: `git clone https://github.com/PatakiSubodh/date-pe-chalogi-kya.git`
+2. Navigate to the project directory: `cd date-pe-chalogi-kya`
 3. Open `index.html` in your web browser to view the page.
 
 ### **Usage**
